@@ -1,0 +1,6 @@
+body{
+    background: url(kitchen.jpg) fixed center no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
+    font-style:  rgb(73, 44, 29);
+}
